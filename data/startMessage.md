@@ -1,5 +1,4 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
-
+失联时请使用该机器人联系，谢谢
 使用方法：
 
 - 当其他用户给bot发消息，会被转发到bot创建者
